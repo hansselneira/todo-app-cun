@@ -37,6 +37,7 @@ class App extends Component {
     return (
       <div className="App">
         <Counter/>
+        <FirstComponent></FirstComponent>
         {/* My hello world
         <FirstComponent></FirstComponent>
         <SecondComponent />
